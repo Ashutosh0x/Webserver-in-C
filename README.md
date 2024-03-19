@@ -4,6 +4,10 @@ This is a very basic web server written in C that listens for incoming HTTP requ
 
 
 
+https://github.com/Ashutosh0x/Webserver-in-C-/assets/161562995/9b0076c7-ea06-4b6a-86d1-0fed8193631b
+
+
+
 ## Features
 
 - Listens on port 8080 (hexadecimal `0x901f`) for incoming connections.
